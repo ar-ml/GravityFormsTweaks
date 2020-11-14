@@ -40,4 +40,4 @@ _________________________________________________
  * 3. In your form, create a new single-line text field.
  * 4. On the Advanced tab, check the box “allow field to be populated dynamically” and add the parameter name of ‘uuid’.
  * 5. Save your form and check results on Frontend.
- *
+ * 6. Hint: You might have to adapt the Form ID and Field ID in the Plugin code before uploading it. Its easy, just take a look into the plugin code. 
