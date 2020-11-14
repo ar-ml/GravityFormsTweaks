@@ -27,3 +27,17 @@ This plugin will make it possible to make GravityForms fields "read only"
  * 2. Activate this Plugin.
  * 3. Assign the following Custom CSS Class (under the "Appearance" tab) to the field you want to make "read-only": gf_readonly
  * 4. If you want to style the field via CSS, have a look here: https://gravitywiz.com/how-to-style-gravity-forms-read-only-fields/
+
+_________________________________________________
+ 
+<b> GravityFormsMLuniqueID </b>
+
+ * This plugin will help you populate a Gravity Forms text field with a unique ID
+ * USE AT YOUR OWN RISK // NO WARRANTY
+ * HOW TO USE:
+ * 1. Upload this Plugin to your Wordpress Backend.
+ * 2. Activate this Plugin.
+ * 3. In your form, create a new single-line text field.
+ * 4. On the Advanced tab, check the box “allow field to be populated dynamically” and add the parameter name of ‘uuid’.
+ * 5. Save your form and check results on Frontend.
+ *
